@@ -1,0 +1,155 @@
+.a{
+    height:1200px;
+    width:1100px;
+    background-color: blueviolet;
+}
+.b{
+color: rgb(208, 203, 203);
+font-size: 20px;
+letter-spacing: 2px;
+padding-top: 40px;
+}
+.c{
+    font-size: 35px;
+    color: white;
+}
+.d{
+    height: 450px;
+    width: 300px;
+    background-color: white;
+    border-radius: 8px;
+    float: left;
+    margin-left: 80px;
+    margin-top: 20px;
+}
+.e{
+    height: 450px;
+    width: 300px;
+    background-color: white;
+    border-radius: 8px;
+    float: left;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+.f{
+    height: 450px;
+    width: 300px;
+    background-color: white;
+    border-radius: 8px;
+    float: left;
+    margin-left: 20px;
+    margin-top: 20px;
+    margin-right: 40px;
+}
+.g{
+    height: 450px;
+    width: 300px;
+    background-color: white;
+    border-radius: 8px;
+    float: left;
+    margin-left: 80px;
+    margin-top: 20px;
+}
+.h{
+    height: 450px;
+    width: 300px;
+    background-color: white;
+    border-radius: 8px;
+    float: left;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+.i{
+    height: 450px;
+    width: 300px;
+    background-color: white;
+    border-radius: 8px;
+    float: left;
+    margin-left: 20px;
+    margin-top: 20px;
+    margin-right: 40px;
+}
+.j{
+    background-image: url('../Thub/pinky1.webp');
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding-top: 20px;
+    height: 150px;
+    width: 200px;
+    background-color: whitesmoke;
+    margin-top: 30px;
+}
+.k{
+    margin-top: 180px;
+    color: blueviolet;
+    font-size: 20px;
+}
+.l{
+    font-size: 15px;
+    color: black;
+    margin-top:0px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.m{
+    height: 40px;
+    width: 150px;
+    background-color: blueviolet;
+    border-radius: 20px;
+    color: white;
+    border: blueviolet;
+    margin-top: 20px;
+}
+.n{
+    color: white;
+    font-size: 20px;
+    margin-top:280px;
+    margin-right: 300px;
+    height: 100px;
+    width: 250px;
+}
+.o{
+    background-image: url('../Thub/pinky2.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding-top: 20px;
+    height: 150px;
+    width: 200px;
+    margin-top: 30px;
+}
+.p{
+    background-image: url('../Thub/pinky3.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding-top: 20px;
+    height: 150px;
+    width: 200px;
+    margin-top: 30px;
+}
+.q{
+    background-image: url('../Thub/pinky4.webp');
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding-top: 20px;
+    height: 150px;
+    width: 200px;
+    margin-top: 30px;
+}
+.r{
+    background-image: url('../Thub/pinky5.webp');
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding-top: 20px;
+    height: 150px;
+    width: 200px;
+    margin-top: 30px;
+}
+.s{
+    background-image: url('../Thub/pinky6.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding-top: 20px;
+    height: 150px;
+    width: 200px;
+    margin-top: 30px;
+}
